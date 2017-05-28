@@ -50,6 +50,9 @@ class App extends Component {
             })
           }
         </Map>
+        <div>
+          This is a map test from Qlue
+        </div>
       </div>
     );
   }
